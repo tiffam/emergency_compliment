@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version (2.3.5)
 
 * System dependencies
 
@@ -24,5 +24,3 @@ Things you may want to cover:
 * ...
 
 Hello.... This is Elaine's comment... my ruby ver is 2.5.0
-
-lalalalala
